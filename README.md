@@ -143,7 +143,7 @@ class SowmipriyaRajendiran:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sowmipriya&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=C9D1D9&dates=8B949E&sideLabels=C9D1D9" />
+<img src="https://raw.githubusercontent.com/sowmipriya/sowmipriya/main/streak-stats.svg" />
 
 <br/><br/>
 
