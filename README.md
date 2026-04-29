@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Sowmipriya%20Rajendiran&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Developer&descAlignY=56&descSize=17&descFontColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,50:0d1b2a,100:1a1a3e&height=220&section=header&text=Sowmipriya%20Rajendiran&fontSize=44&fontColor=58A6FF&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Developer&descAlignY=62&descSize=18&descFontColor=a8b2d8" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems;RAG+%E2%80%A2+Agents+%E2%80%A2+LLM+Tooling+%E2%80%A2+Cross-platform+Apps;Python+%7C+TypeScript+%7C+Dart+%7C+Flutter;Turning+ideas+into+AI-powered+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=AI%2FML+Engineer+%26+Developer+%F0%9F%A4%96;Building+production-grade+AI+systems+%F0%9F%9A%80;RAG+%E2%80%A2+Agents+%E2%80%A2+LLMs+%E2%80%A2+Cross-platform+Apps;Python+%7C+TypeScript+%7C+Dart+%7C+Flutter;~2.8B+tokens+processed+%E2%80%A2+18%2B+LLMs+shipped)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sowmipriya&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sowmipriya&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=PROFILE+VIEWS)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/sowmipriya?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/sowmipriya)
+&nbsp;
+![Years Badge](https://img.shields.io/badge/coding%20since-2015-58A6FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ whoami`
 
@@ -28,7 +30,7 @@ class SowmipriyaRajendiran:
     fun_fact     = "I shipped a cross-platform LLM monitor in Dart 🎯"
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ ls -la ./tech-stack`
 
@@ -37,7 +39,6 @@ class SowmipriyaRajendiran:
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,react&perline=6" />
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,flask,docker,linux,git,github&perline=6" />
-<br/>
 
 <br/>
 
@@ -51,96 +52,36 @@ class SowmipriyaRajendiran:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ cat ./featured-projects.json`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**[🔍 rag-document-parser](https://github.com/sowmipriya/rag-document-parser)**
+<a href="https://github.com/sowmipriya/rag-document-parser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=rag-document-parser&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/sowmipriya/traceLM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=traceLM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
 
-> End-to-end RAG pipeline with Streamlit UI, CLI, and multi-LLM support
+<a href="https://github.com/sowmipriya/clawdbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=clawdbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/sowmipriya/AskMyCompanyPro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=AskMyCompanyPro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
 
-`Python` `LangChain` `Streamlit` `ChromaDB`
+<a href="https://github.com/sowmipriya/my-LLM-playground">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=my-LLM-playground&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/sowmipriya/content-filtration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=content-filtration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+</a>
 
-Parse → Embed → Retrieve → Answer. Pluggable LLM backends, production-ready.
+</div>
 
-![Stars](https://img.shields.io/github/stars/sowmipriya/rag-document-parser?style=flat-square&color=58A6FF&labelColor=0D1117)
-![Last Commit](https://img.shields.io/github/last-commit/sowmipriya/rag-document-parser?style=flat-square&color=58A6FF&labelColor=0D1117)
-
-</td>
-<td width="50%" valign="top">
-
-**[📊 traceLM](https://github.com/sowmipriya/traceLM)**
-
-> Cross-platform LLM usage monitor — Windows / Ubuntu / macOS / iOS
-
-`Dart` `Flutter` `Cross-platform`
-
-One app to monitor token usage across every platform you own.
-
-![Stars](https://img.shields.io/github/stars/sowmipriya/traceLM?style=flat-square&color=58A6FF&labelColor=0D1117)
-![Forks](https://img.shields.io/github/forks/sowmipriya/traceLM?style=flat-square&color=58A6FF&labelColor=0D1117)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🤖 clawdbot](https://github.com/sowmipriya/clawdbot)**
-
-> Personal AI assistant — any OS, any platform
-
-`Python` `LLM` `Multi-platform`
-
-Bring your own LLM. Works everywhere. Zero lock-in.
-
-![Stars](https://img.shields.io/github/stars/sowmipriya/clawdbot?style=flat-square&color=58A6FF&labelColor=0D1117)
-
-</td>
-<td width="50%" valign="top">
-
-**[🏢 AskMyCompanyPro](https://github.com/sowmipriya/AskMyCompanyPro)**
-
-> Enterprise-grade company knowledge Q&A powered by RAG
-
-`Python` `RAG` `LangChain`
-
-Ask questions about internal docs — get accurate, sourced answers.
-
-![Stars](https://img.shields.io/github/stars/sowmipriya/AskMyCompanyPro?style=flat-square&color=58A6FF&labelColor=0D1117)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🧪 my-LLM-playground](https://github.com/sowmipriya/my-LLM-playground)**
-
-> Sandbox for LLM experiments — prompting, evals, fine-tuning
-
-`Python` `OpenAI` `Ollama`
-
-Where ideas become prototypes. Scrappy, fast, exploratory.
-
-</td>
-<td width="50%" valign="top">
-
-**[🛡️ content-filtration](https://github.com/sowmipriya/content-filtration)**
-
-> AI content moderation pipeline
-
-`Python` `NLP` `Classification`
-
-Classify and filter content at scale using language models.
-
-</td>
-</tr>
-</table>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ htop --dev-metrics`
 
@@ -186,7 +127,7 @@ Classify and filter content at scale using language models.
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ trophy --display`
 
@@ -196,17 +137,27 @@ Classify and filter content at scale using language models.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## `$ git log --graph --oneline`
+## `$ git log --graph`
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sowmipriya&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=C9D1D9&dates=8B949E&sideLabels=C9D1D9" />
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sowmipriya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmipriya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowmipriya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1a2a4a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ watch ./contributions --snake`
 
@@ -215,12 +166,12 @@ Classify and filter content at scale using language models.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sowmipriya/sowmipriya/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sowmipriya/sowmipriya/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sowmipriya/sowmipriya/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sowmipriya/sowmipriya/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ grep -r "currently_building"`
 
@@ -230,7 +181,7 @@ Classify and filter content at scale using language models.
 ▶ sales-agent — AI-powered sales automation agent
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## `$ ping sowmipriya`
 
@@ -244,10 +195,4 @@ Classify and filter content at scale using language models.
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a1a3e,50:0d1b2a,100:0D1117&height=140&section=footer&reversal=true" width="100%"/>
