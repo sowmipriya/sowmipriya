@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sowmipriya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sowmipriya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Developer%20%7C%20LLM%20Builder&descAlignY=51&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+LLMs+since+before+it+was+cool;RAG+%E2%80%A2+Agents+%E2%80%A2+Cross-platform+AI+tools;Python+%7C+TypeScript+%7C+Dart;Turning+ideas+into+AI-powered+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Developer;Building+with+LLMs+since+before+it+was+cool;RAG+%E2%80%A2+Agents+%E2%80%A2+Cross-platform+AI+tools;Python+%7C+TypeScript+%7C+Dart;Turning+ideas+into+AI-powered+products)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ```python
 class SowmipriyaRajendiran:
-    role        = "AI Engineer & LLM Builder"
+    role        = "AI/ML Engineer & Developer"
     focus       = ["RAG Systems", "LLM Tooling", "AI Agents", "Cross-platform Apps"]
     languages   = ["Python", "TypeScript", "Dart", "JavaScript"]
     currently   = "Building production-grade AI applications"
