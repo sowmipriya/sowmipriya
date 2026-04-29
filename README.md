@@ -22,12 +22,15 @@
 
 ```python
 class SowmipriyaRajendiran:
-    role         = "AI/ML Engineer & Developer"
-    focus        = ["RAG Systems", "LLM Tooling", "AI Agents", "Cross-platform Apps"]
-    languages    = ["Python", "TypeScript", "Dart", "JavaScript"]
-    currently    = "Building production-grade AI applications"
-    ask_me_about = ["LLMs", "RAG pipelines", "Agentic workflows", "AI product development"]
-    fun_fact     = "I shipped a cross-platform LLM monitor in Dart 🎯"
+    role         = "AI/ML Engineer · Data Scientist · Technical Co-Founder"
+    location     = "Paris, France 🇫🇷"
+    focus        = ["LLM Systems", "NLP", "RAG Pipelines", "Data Engineering", "Cross-platform Apps"]
+    languages    = ["Python", "TypeScript", "Dart", "JavaScript", "R", "Scala"]
+    currently    = "Co-Founder @ SOOHA — AI-powered skincare platform"
+    experience   = "10+ years across ML, NLP, Data Science & Full-stack"
+    ask_me_about = ["LLMs", "RAG", "NLP", "Data pipelines", "Kafka", "Spark", "Flutter"]
+    education    = "MSc Big Data & Data Science — CY Cergy Paris University"
+    languages_spoken = {"English": "Fluent", "French": "Intermediate (DELF B1)"}
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
@@ -36,19 +39,28 @@ class SowmipriyaRajendiran:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,react&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,scala,r&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,flask,docker,linux,git,github&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,flutter,django,flask,fastapi,supabase&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,mysql,postgres,docker,aws,gcp&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,git,github,gitlab,linux,selenium&perline=6" />
 
 <br/>
 
 | Domain | Tools |
 |:---:|:---|
-| **LLM / AI** | LangChain · LlamaIndex · OpenAI · Ollama · HuggingFace · Rasa |
-| **Vector DBs** | ChromaDB · Pinecone · Weaviate · FAISS |
-| **Frontend** | React · Streamlit · Flutter · HTML5 |
-| **Backend** | Flask · REST APIs · Docker · Linux |
-| **Dev Tools** | Cursor · Neovim · Warp · tmux · Git |
+| **AI / LLM** | LLM · RAG · Prompt Engineering · LangChain · Transformers · NLP · OpenAI · Ollama · HuggingFace |
+| **Machine Learning** | PyTorch · Classification · Regression · Clustering · Neural Networks |
+| **Data Engineering** | Kafka · RabbitMQ · Airflow · Spark · DBT |
+| **Data Scraping** | Scrapy · Selenium · BeautifulSoup · Requests · Urllib |
+| **Data Visualization** | Tableau · Qlik Sense · Matplotlib · Superset · Looker · Power BI |
+| **Databases** | PostgreSQL · MySQL · BigQuery · Supabase |
+| **Cloud** | AWS · GCP · Azure · Databricks |
+| **Web & Mobile** | React · Flutter · FastAPI · Django · Flask · Stripe |
+| **CI/CD & DevOps** | GitLab CI · Docker · Unit Testing · Integration Testing |
+| **Languages** | Python · TypeScript · JavaScript · Dart · R · Scala |
 
 </div>
 
