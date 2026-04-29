@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=160&section=header&text=Sowmipriya%20Rajendiran&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Developer&descAlignY=58&descSize=16&descFontColor=8b949e" width="100%"/>
+<img src="https://raw.githubusercontent.com/sowmipriya/sowmipriya/main/header.svg" width="100%"/>
 
 <br/>
 
@@ -137,16 +137,6 @@ class SowmipriyaRajendiran:
 ║  RAM      36 GB                   CPU       Apple M3 Pro            ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
----
-
-## `$ trophy --display`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sowmipriya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
