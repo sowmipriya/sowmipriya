@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,50:0d1b2a,100:1a1a3e&height=220&section=header&text=Sowmipriya%20Rajendiran&fontSize=44&fontColor=58A6FF&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Developer&descAlignY=62&descSize=18&descFontColor=a8b2d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=Sowmipriya%20Rajendiran&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Developer&descAlignY=62&descSize=18&descFontColor=a8d8f0" width="100%"/>
 
 <br/>
 
@@ -10,15 +10,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sowmipriya&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/sowmipriya?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/sowmipriya)
+[![GitHub followers](https://img.shields.io/github/followers/sowmipriya?style=for-the-badge&color=a78bfa&labelColor=0D1117&label=FOLLOWERS)](https://github.com/sowmipriya)
 &nbsp;
-![Years Badge](https://img.shields.io/badge/coding%20since-2015-58A6FF?style=for-the-badge&labelColor=0D1117)
+![Years Badge](https://img.shields.io/badge/coding%20since-2015-00d4ff?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=55&text=❯%20whoami&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 ```python
 class SowmipriyaRajendiran:
@@ -33,9 +31,7 @@ class SowmipriyaRajendiran:
     languages_spoken = {"English": "Fluent", "French": "Intermediate (DELF B1)"}
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ ls -la ./tech-stack`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16002e,50:6a0dad,100:df80ff&height=55&text=❯%20tech-stack&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -64,38 +60,34 @@ class SowmipriyaRajendiran:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ cat ./featured-projects.json`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001220,50:004e89,100:1a936f&height=55&text=❯%20featured-projects&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/sowmipriya/rag-document-parser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=rag-document-parser&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=rag-document-parser&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/sowmipriya/traceLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=traceLM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=traceLM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/sowmipriya/clawdbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=clawdbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=clawdbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=df80ff&icon_color=df80ff&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/sowmipriya/AskMyCompanyPro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=AskMyCompanyPro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=AskMyCompanyPro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=df80ff&icon_color=df80ff&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/sowmipriya/my-LLM-playground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=my-LLM-playground&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=my-LLM-playground&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a936f&icon_color=1a936f&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/sowmipriya/content-filtration">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=content-filtration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sowmipriya&repo=content-filtration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1a936f&icon_color=1a936f&text_color=C9D1D9" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ htop --dev-metrics`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:8b0000,100:ff4500&height=55&text=❯%20htop%20--dev-metrics&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -139,9 +131,7 @@ class SowmipriyaRajendiran:
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ trophy --display`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1000,50:996600,100:ffd700&height=55&text=❯%20trophy%20--display&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -149,9 +139,7 @@ class SowmipriyaRajendiran:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ git log --graph`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:3a0ca3,100:f72585&height=55&text=❯%20git%20log%20--graph&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -159,19 +147,17 @@ class SowmipriyaRajendiran:
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sowmipriya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sowmipriya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=f72585&icon_color=f72585&text_color=C9D1D9"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmipriya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmipriya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f72585&text_color=C9D1D9"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowmipriya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1a2a4a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowmipriya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=f72585&line=f72585&point=ffffff&area=true&area_color=3a0ca3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ watch ./contributions --snake`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001200,50:006400,100:00ff88&height=55&text=❯%20contributions%20--snake&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
@@ -183,28 +169,25 @@ class SowmipriyaRajendiran:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ grep -r "currently_building"`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a1a,50:006666,100:00e5ff&height=55&text=❯%20currently%20building&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 ```
 ▶ traceLM     — Cross-platform LLM usage monitor (Dart + Flutter)
 ▶ clawdbot    — Personal AI assistant with multi-platform support
 ▶ sales-agent — AI-powered sales automation agent
+▶ SOOHA       — AI skincare platform (Flutter + FastAPI + Supabase)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## `$ ping sowmipriya`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:7b2fff&height=55&text=❯%20ping%20sowmipriya&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sowmipriya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sowmipriya)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sowmipriya/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sowmipriya/portfolio)
 
 *Open to collaborating on AI/LLM projects, RAG systems, and developer tools*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a1a3e,50:0d1b2a,100:0D1117&height=140&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:00e5ff,50:7b2fff,100:f72585&height=140&section=footer&reversal=true" width="100%"/>
