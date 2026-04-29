@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sowmipriya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Developer%20%7C%20LLM%20Builder&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Sowmipriya%20Rajendiran&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Developer&descAlignY=56&descSize=17&descFontColor=a8b2d8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%26+Developer;Building+with+LLMs+since+before+it+was+cool;RAG+%E2%80%A2+Agents+%E2%80%A2+Cross-platform+AI+tools;Python+%7C+TypeScript+%7C+Dart;Turning+ideas+into+AI-powered+products)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems;RAG+%E2%80%A2+Agents+%E2%80%A2+LLM+Tooling+%E2%80%A2+Cross-platform+Apps;Python+%7C+TypeScript+%7C+Dart+%7C+Flutter;Turning+ideas+into+AI-powered+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sowmipriya&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/sowmipriya?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/sowmipriya)
 
 </div>
 
@@ -12,12 +20,12 @@
 
 ```python
 class SowmipriyaRajendiran:
-    role        = "AI/ML Engineer & Developer"
-    focus       = ["RAG Systems", "LLM Tooling", "AI Agents", "Cross-platform Apps"]
-    languages   = ["Python", "TypeScript", "Dart", "JavaScript"]
-    currently   = "Building production-grade AI applications"
-    ask_me_about= ["LLMs", "RAG pipelines", "Agentic workflows", "AI product development"]
-    fun_fact    = "I shipped a cross-platform LLM monitor in Dart 🎯"
+    role         = "AI/ML Engineer & Developer"
+    focus        = ["RAG Systems", "LLM Tooling", "AI Agents", "Cross-platform Apps"]
+    languages    = ["Python", "TypeScript", "Dart", "JavaScript"]
+    currently    = "Building production-grade AI applications"
+    ask_me_about = ["LLMs", "RAG pipelines", "Agentic workflows", "AI product development"]
+    fun_fact     = "I shipped a cross-platform LLM monitor in Dart 🎯"
 ```
 
 ---
@@ -26,31 +34,20 @@ class SowmipriyaRajendiran:
 
 <div align="center">
 
-**AI / ML**
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,flutter,react&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,flask,docker,linux,git,github&perline=6" />
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+<br/>
 
-**Frontend / Mobile**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend / Infra**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Domain | Tools |
+|:---:|:---|
+| **LLM / AI** | LangChain · LlamaIndex · OpenAI · Ollama · HuggingFace · Rasa |
+| **Vector DBs** | ChromaDB · Pinecone · Weaviate · FAISS |
+| **Frontend** | React · Streamlit · Flutter · HTML5 |
+| **Backend** | Flask · REST APIs · Docker · Linux |
+| **Dev Tools** | Cursor · Neovim · Warp · tmux · Git |
 
 </div>
 
@@ -60,69 +57,82 @@ class SowmipriyaRajendiran:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 [rag-document-parser](https://github.com/sowmipriya/rag-document-parser)
-> End-to-end **RAG pipeline** with Streamlit UI, CLI, and multi-LLM support
+**[🔍 rag-document-parser](https://github.com/sowmipriya/rag-document-parser)**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/sowmipriya/rag-document-parser?style=flat-square&color=yellow)
+> End-to-end RAG pipeline with Streamlit UI, CLI, and multi-LLM support
 
-Parse. Embed. Retrieve. Answer. — A fully-featured RAG app with pluggable LLM backends.
+`Python` `LangChain` `Streamlit` `ChromaDB`
 
-</td>
-<td width="50%">
+Parse → Embed → Retrieve → Answer. Pluggable LLM backends, production-ready.
 
-### 📊 [traceLM](https://github.com/sowmipriya/traceLM)
-> Cross-platform **LLM usage monitor** — Windows / Ubuntu / macOS / iOS
-
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Stars](https://img.shields.io/github/stars/sowmipriya/traceLM?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/sowmipriya/traceLM?style=flat-square&color=blue)
-
-One app to monitor LLM token usage across every platform you own.
+![Stars](https://img.shields.io/github/stars/sowmipriya/rag-document-parser?style=flat-square&color=58A6FF&labelColor=0D1117)
+![Last Commit](https://img.shields.io/github/last-commit/sowmipriya/rag-document-parser?style=flat-square&color=58A6FF&labelColor=0D1117)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [clawdbot](https://github.com/sowmipriya/clawdbot)
-> Your personal **AI assistant** — any OS, any platform
+**[📊 traceLM](https://github.com/sowmipriya/traceLM)**
 
-![AI](https://img.shields.io/badge/-AI%20Assistant-412991?style=flat-square&logo=openai&logoColor=white)
+> Cross-platform LLM usage monitor — Windows / Ubuntu / macOS / iOS
 
-Bring your own LLM. Works everywhere. No lock-in.
+`Dart` `Flutter` `Cross-platform`
 
-</td>
-<td width="50%">
+One app to monitor token usage across every platform you own.
 
-### 🏢 [AskMyCompanyPro](https://github.com/sowmipriya/AskMyCompanyPro)
-> Enterprise-grade **company knowledge Q&A** powered by RAG
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Ask questions about your company's internal docs — and get accurate, sourced answers.
+![Stars](https://img.shields.io/github/stars/sowmipriya/traceLM?style=flat-square&color=58A6FF&labelColor=0D1117)
+![Forks](https://img.shields.io/github/forks/sowmipriya/traceLM?style=flat-square&color=58A6FF&labelColor=0D1117)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 [my-LLM-playground](https://github.com/sowmipriya/my-LLM-playground)
-> A **sandbox for LLM experiments** — prompting, fine-tuning, evals
+**[🤖 clawdbot](https://github.com/sowmipriya/clawdbot)**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> Personal AI assistant — any OS, any platform
+
+`Python` `LLM` `Multi-platform`
+
+Bring your own LLM. Works everywhere. Zero lock-in.
+
+![Stars](https://img.shields.io/github/stars/sowmipriya/clawdbot?style=flat-square&color=58A6FF&labelColor=0D1117)
+
+</td>
+<td width="50%" valign="top">
+
+**[🏢 AskMyCompanyPro](https://github.com/sowmipriya/AskMyCompanyPro)**
+
+> Enterprise-grade company knowledge Q&A powered by RAG
+
+`Python` `RAG` `LangChain`
+
+Ask questions about internal docs — get accurate, sourced answers.
+
+![Stars](https://img.shields.io/github/stars/sowmipriya/AskMyCompanyPro?style=flat-square&color=58A6FF&labelColor=0D1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🧪 my-LLM-playground](https://github.com/sowmipriya/my-LLM-playground)**
+
+> Sandbox for LLM experiments — prompting, evals, fine-tuning
+
+`Python` `OpenAI` `Ollama`
 
 Where ideas become prototypes. Scrappy, fast, exploratory.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ [content-filtration](https://github.com/sowmipriya/content-filtration)
-> **AI content moderation** pipeline in Python
+**[🛡️ content-filtration](https://github.com/sowmipriya/content-filtration)**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> AI content moderation pipeline
+
+`Python` `NLP` `Classification`
 
 Classify and filter content at scale using language models.
 
@@ -144,11 +154,8 @@ Classify and filter content at scale using language models.
 ║  JavaScript      ██░░░░░░░░░░░░░░░░░░░░    2h 03m   ▌  5.7 %       ║
 ║  YAML / Configs  █░░░░░░░░░░░░░░░░░░░░░    0h 47m   ▌  2.2 %       ║
 ║  Shell / Bash    ░░░░░░░░░░░░░░░░░░░░░░    0h 26m   ▌  1.2 %       ║
-║  Other           ░░░░░░░░░░░░░░░░░░░░░░    0h 09m   ▌  0.7 %       ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
 
-```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                      🔬 AI / ML METRICS                             ║
 ╠══════════════════════════════════════════════════════════════════════╣
@@ -159,35 +166,67 @@ Classify and filter content at scale using language models.
 ║  Vector DBs worked with      ████░░░░░░░░░░░░░░░░    4              ║
 ║                                                                      ║
 ║  Tokens processed (est.)     ~2.8 Billion                           ║
-║  Avg. RAG eval score         91.4 %                                 ║
-║  Platforms shipped on        5  (macOS · Linux · Win · iOS · Web)   ║
+║  Avg. RAG eval score          91.4 %                                ║
+║  Platforms shipped on         5  (macOS · Linux · Win · iOS · Web)  ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
 
-```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                    📈 ALL-TIME DEV STATS                            ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  Total commits (public + private)     2,847                         ║
-║  Pull requests merged                   312                         ║
-║  Code reviews given                     194                         ║
-║  Lines of code written             ~380,000                         ║
-║  Repos contributed to                    47                         ║
-║  GitHub streak (personal best)       38 days                        ║
+║  Total commits (public + private)      2,847                        ║
+║  Pull requests merged                    312                        ║
+║  Code reviews given                      194                        ║
+║  Lines of code written              ~380,000                        ║
+║  Repos contributed to                     47                        ║
+║  GitHub streak (personal best)        38 days                       ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  Fav editor   Cursor / Neovim          OS   macOS (Apple Silicon)   ║
-║  Shell        zsh + oh-my-zsh      Terminal  Warp + tmux            ║
-║  RAM          36 GB                   CPU    Apple M3 Pro           ║
+║  Editor   Cursor / Neovim         OS       macOS (Apple Silicon)    ║
+║  Shell    zsh + oh-my-zsh         Terminal  Warp + tmux             ║
+║  RAM      36 GB                   CPU       Apple M3 Pro            ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+## `$ trophy --display`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sowmipriya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `$ git log --graph --oneline`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowmipriya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1a2a4a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ watch ./contributions --snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sowmipriya/sowmipriya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sowmipriya/sowmipriya/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sowmipriya/sowmipriya/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
 ## `$ grep -r "currently_building"`
 
 ```
-▶ traceLM    — LLM usage monitoring across all platforms (Dart + Flutter)
-▶ clawdbot   — Personal AI assistant with multi-platform support  
+▶ traceLM     — Cross-platform LLM usage monitor (Dart + Flutter)
+▶ clawdbot    — Personal AI assistant with multi-platform support
 ▶ sales-agent — AI-powered sales automation agent
 ```
 
@@ -197,10 +236,11 @@ Classify and filter content at scale using language models.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sowmipriya-181717?style=for-the-badge&logo=github)](https://github.com/sowmipriya)
+[![GitHub](https://img.shields.io/badge/GitHub-sowmipriya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sowmipriya)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sowmipriya/portfolio)
 
-*Open to collaborating on AI/LLM projects, RAG systems, and dev tools*
+*Open to collaborating on AI/LLM projects, RAG systems, and developer tools*
 
 </div>
 
@@ -208,6 +248,6 @@ Classify and filter content at scale using language models.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer"/>
 
 </div>
