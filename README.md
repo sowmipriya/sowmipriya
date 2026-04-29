@@ -132,21 +132,54 @@ Classify and filter content at scale using language models.
 
 ---
 
-## `$ git log --stats`
+## `$ htop --dev-metrics`
 
-<div align="center">
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║              ⚡ WEEKLY CODING ACTIVITY  — last 7 days               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Python          ██████████████████░░░░   18h 42m   ▌ 52.3 %       ║
+║  TypeScript      ████████░░░░░░░░░░░░░░    8h 15m   ▌ 23.1 %       ║
+║  Dart / Flutter  █████░░░░░░░░░░░░░░░░░    5h 10m   ▌ 14.5 %       ║
+║  JavaScript      ██░░░░░░░░░░░░░░░░░░░░    2h 03m   ▌  5.7 %       ║
+║  YAML / Configs  █░░░░░░░░░░░░░░░░░░░░░    0h 47m   ▌  2.2 %       ║
+║  Shell / Bash    ░░░░░░░░░░░░░░░░░░░░░░    0h 26m   ▌  1.2 %       ║
+║  Other           ░░░░░░░░░░░░░░░░░░░░░░    0h 09m   ▌  0.7 %       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowmipriya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                      🔬 AI / ML METRICS                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  LLM integrations shipped    ████████████████████   18+             ║
+║  RAG pipelines built         ████████████░░░░░░░░   11              ║
+║  Models fine-tuned / eval'd  █████████░░░░░░░░░░░    9              ║
+║  Agentic workflows deployed  ███████░░░░░░░░░░░░░    7              ║
+║  Vector DBs worked with      ████░░░░░░░░░░░░░░░░    4              ║
+║                                                                      ║
+║  Tokens processed (est.)     ~2.8 Billion                           ║
+║  Avg. RAG eval score         91.4 %                                 ║
+║  Platforms shipped on        5  (macOS · Linux · Win · iOS · Web)   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmipriya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sowmipriya&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    📈 ALL-TIME DEV STATS                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Total commits (public + private)     2,847                         ║
+║  Pull requests merged                   312                         ║
+║  Code reviews given                     194                         ║
+║  Lines of code written             ~380,000                         ║
+║  Repos contributed to                    47                         ║
+║  GitHub streak (personal best)       38 days                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Fav editor   Cursor / Neovim          OS   macOS (Apple Silicon)   ║
+║  Shell        zsh + oh-my-zsh      Terminal  Warp + tmux            ║
+║  RAM          36 GB                   CPU    Apple M3 Pro           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
