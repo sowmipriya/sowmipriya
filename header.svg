@@ -1,119 +1,63 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
   <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0"    stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="0.18" stop-color="#0d1117" stop-opacity="0.92"/>
-      <stop offset="0.82" stop-color="#0d1117" stop-opacity="0.92"/>
-      <stop offset="1"    stop-color="#0d1117" stop-opacity="0"/>
-    </linearGradient>
-    <style>
-      .sprig { animation: sway 9s ease-in-out infinite; transform-box: fill-box; transform-origin: 50% 100%; }
-      .sprig2{ animation: sway 9s ease-in-out 3s infinite; transform-box: fill-box; transform-origin: 50% 100%; }
-      @keyframes sway {
-        0%,100% { transform: rotate(-1.5deg); }
-        50%      { transform: rotate(1.5deg);  }
-      }
-    </style>
+
+    <!-- repeating floral tile -->
+    <pattern id="floral" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+
+      <!-- 5-petal flower centred in tile -->
+      <g transform="translate(30,30)">
+        <ellipse cx="0" cy="-11" rx="4" ry="8" fill="#1c3a5c" stroke="#58A6FF" stroke-width="0.7" transform="rotate(0)"/>
+        <ellipse cx="0" cy="-11" rx="4" ry="8" fill="#1c3a5c" stroke="#58A6FF" stroke-width="0.7" transform="rotate(72)"/>
+        <ellipse cx="0" cy="-11" rx="4" ry="8" fill="#1c3a5c" stroke="#58A6FF" stroke-width="0.7" transform="rotate(144)"/>
+        <ellipse cx="0" cy="-11" rx="4" ry="8" fill="#1c3a5c" stroke="#58A6FF" stroke-width="0.7" transform="rotate(216)"/>
+        <ellipse cx="0" cy="-11" rx="4" ry="8" fill="#1c3a5c" stroke="#58A6FF" stroke-width="0.7" transform="rotate(288)"/>
+        <circle cx="0" cy="0" r="3.5" fill="#58A6FF" opacity="0.9"/>
+        <circle cx="0" cy="0" r="1.5" fill="#c9d1d9"/>
+      </g>
+
+      <!-- two small leaves at opposite corners to create vine feel when tiled -->
+      <path d="M6,6 Q14,2 14,10 Q6,14 6,6Z"   fill="#1e4d3a" stroke="#3a7d6e" stroke-width="0.6"/>
+      <path d="M54,54 Q46,58 46,50 Q54,46 54,54Z" fill="#1e4d3a" stroke="#3a7d6e" stroke-width="0.6"/>
+
+      <!-- tiny connecting dots -->
+      <circle cx="30" cy="6"  r="1" fill="#3a7d6e" opacity="0.5"/>
+      <circle cx="30" cy="54" r="1" fill="#3a7d6e" opacity="0.5"/>
+      <circle cx="6"  cy="30" r="1" fill="#3a7d6e" opacity="0.5"/>
+      <circle cx="54" cy="30" r="1" fill="#3a7d6e" opacity="0.5"/>
+    </pattern>
+
+    <!-- radial fade: dark in centre so text pops, pattern visible on sides -->
+    <radialGradient id="rfade" cx="50%" cy="50%" r="55%">
+      <stop offset="0%"   stop-color="#0d1117" stop-opacity="0.96"/>
+      <stop offset="55%"  stop-color="#0d1117" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.15"/>
+    </radialGradient>
+
   </defs>
 
+  <!-- base -->
   <rect width="900" height="200" fill="#0d1117"/>
 
-  <!-- ════ LEFT SPRIG ════ -->
-  <g class="sprig" opacity="0.5">
-    <!-- stem -->
-    <path d="M55,200 Q60,160 65,125 Q70,90 72,50"
-          stroke="#4a8fa8" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+  <!-- floral pattern -->
+  <rect width="900" height="200" fill="url(#floral)" opacity="0.55"/>
 
-    <!-- leaf 1 — left of stem -->
-    <path d="M62,138 Q38,124 40,102 Q62,114 62,138Z"
-          fill="#3a7d6e" stroke="#4a8fa8" stroke-width="0.7" stroke-linejoin="round"/>
+  <!-- centre fade so text reads clearly -->
+  <rect width="900" height="200" fill="url(#rfade)"/>
 
-    <!-- leaf 2 — right of stem -->
-    <path d="M68,100 Q92,87 90,64 Q70,77 68,100Z"
-          fill="#3a7d6e" stroke="#4a8fa8" stroke-width="0.7" stroke-linejoin="round"/>
-
-    <!-- leaf 3 — left of stem, small -->
-    <path d="M65,168 Q46,158 48,143 Q64,152 65,168Z"
-          fill="#3a7d6e" stroke="#4a8fa8" stroke-width="0.6" stroke-linejoin="round"/>
-
-    <!-- flower -->
-    <g transform="translate(72,50)">
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(0)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(72)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(144)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(216)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(288)"/>
-      <circle cx="0" cy="0" r="4" fill="#58A6FF" opacity="0.7"/>
-      <circle cx="0" cy="0" r="2" fill="#c9d1d9"/>
-    </g>
-
-    <!-- small bud -->
-    <g transform="translate(60,75)">
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(0)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(72)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(144)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(216)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(288)"/>
-      <circle cx="0" cy="0" r="2.5" fill="#4a8fa8" opacity="0.6"/>
-    </g>
-
-    <!-- pollen dots -->
-    <circle cx="88" cy="110" r="1.5" fill="#58A6FF" opacity="0.4"/>
-    <circle cx="44" cy="125" r="1"   fill="#58A6FF" opacity="0.35"/>
-    <circle cx="78" cy="160" r="1"   fill="#4a8fa8" opacity="0.3"/>
-  </g>
-
-  <!-- ════ RIGHT SPRIG (mirrored) ════ -->
-  <g class="sprig2" opacity="0.5">
-    <path d="M845,200 Q840,160 835,125 Q830,90 828,50"
-          stroke="#4a8fa8" stroke-width="1.3" fill="none" stroke-linecap="round"/>
-
-    <path d="M838,138 Q862,124 860,102 Q838,114 838,138Z"
-          fill="#3a7d6e" stroke="#4a8fa8" stroke-width="0.7" stroke-linejoin="round"/>
-
-    <path d="M832,100 Q808,87 810,64 Q830,77 832,100Z"
-          fill="#3a7d6e" stroke="#4a8fa8" stroke-width="0.7" stroke-linejoin="round"/>
-
-    <path d="M835,168 Q854,158 852,143 Q836,152 835,168Z"
-          fill="#3a7d6e" stroke="#4a8fa8" stroke-width="0.6" stroke-linejoin="round"/>
-
-    <g transform="translate(828,50)">
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(0)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(72)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(144)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(216)"/>
-      <ellipse cx="0" cy="-13" rx="5" ry="10" fill="#0d1117" stroke="#58A6FF" stroke-width="1" transform="rotate(288)"/>
-      <circle cx="0" cy="0" r="4" fill="#58A6FF" opacity="0.7"/>
-      <circle cx="0" cy="0" r="2" fill="#c9d1d9"/>
-    </g>
-
-    <g transform="translate(840,75)">
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(0)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(72)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(144)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(216)"/>
-      <ellipse cx="0" cy="-8" rx="3" ry="6" fill="#0d1117" stroke="#4a8fa8" stroke-width="0.8" transform="rotate(288)"/>
-      <circle cx="0" cy="0" r="2.5" fill="#4a8fa8" opacity="0.6"/>
-    </g>
-
-    <circle cx="812" cy="110" r="1.5" fill="#58A6FF" opacity="0.4"/>
-    <circle cx="856" cy="125" r="1"   fill="#58A6FF" opacity="0.35"/>
-    <circle cx="822" cy="160" r="1"   fill="#4a8fa8" opacity="0.3"/>
-  </g>
-
-  <!-- centre fade -->
-  <rect width="900" height="200" fill="url(#fade)"/>
-
-  <!-- text -->
+  <!-- name -->
   <text x="450" y="90" text-anchor="middle"
         font-family="Georgia,'Times New Roman',serif"
         font-size="34" font-weight="bold" letter-spacing="1.5" fill="#e6edf3">
     Sowmipriya Rajendiran
   </text>
+
+  <!-- subtitle -->
   <text x="450" y="120" text-anchor="middle"
         font-family="'Segoe UI',Ubuntu,sans-serif"
         font-size="13" letter-spacing="2.5" fill="#6e7681">
     AI/ML ENGINEER  •  LLM BUILDER  •  DEVELOPER
   </text>
-  <line x1="320" y1="140" x2="580" y2="140" stroke="#21262d" stroke-width="1"/>
+
+  <!-- thin rule -->
+  <line x1="310" y1="141" x2="590" y2="141" stroke="#30363d" stroke-width="1"/>
 </svg>
